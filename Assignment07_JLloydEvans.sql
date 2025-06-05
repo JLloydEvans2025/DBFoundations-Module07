@@ -1,3 +1,8 @@
+-- Title: Assignment07
+-- Author: JLloyd-Evans
+-- Desc: This file demonstrates how to use Functions
+-- Change Log: When,Who,What
+-- 2025-06-03,JLloyd-Evans,Created File
 Begin Try
 	Use Master;
 	If Exists(Select Name From SysDatabases Where Name = 'Assignment07DB_JLloyd-Evans')
